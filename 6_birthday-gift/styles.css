@@ -1,0 +1,67 @@
+body {
+    text-align: center;
+    font-family: "Happy Monkey", system-ui;
+    background: linear-gradient(#83f093, #ffffff);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#cato-img {
+    border-radius: 50%;
+    width: 160px;
+    border: 6px solid #ffb700;
+}
+
+/* .text-shadow {
+    text-shadow: 0 0 1px #ffffff;
+} */
+
+#bday-age {
+    background: #ffb700;
+    padding: 4px 8px;
+    border-radius: 6px;
+    margin: 10px 0 10px 0;
+}
+
+#bday-date {
+    margin: 0;
+    background: #ffb700;
+    padding: 4px 8px;
+    border-radius: 6px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section {
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    gap: 12px;
+}
+
+.gift-img {
+    background-image: url("./gift-cover.png");
+    background-size: cover;
+    height: 250px;
+    width: 250px;
+    border: 4px solid black;
+    border-radius: 8px;
+}
+
+.gift-img:hover {
+    background-image: url(./dancing-cato.gif);
+    background-size: cover;
+}
+
+.head-1 {
+    margin: 40px 0 0 0;
+}
+
+.head-2 {
+    margin: 15px 0 20px 0;
+}
