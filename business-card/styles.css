@@ -7,6 +7,18 @@ body {
 }
 
 .card {
-    border: 2px dotted blue;
+    display: flex;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
     padding: 20px;
+    justify-content: space-around;
+    text-align: center;
+    color: #2B2839;
+    background-color: #ffada4;
+    border-bottom: 8px solid #e67c93;
+}
+
+.dotted-border {
+    /* border: 2px dotted blue; */
 }
