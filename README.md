@@ -1,7 +1,6 @@
 # HTML & CSS Practice Projects
 
-A collection of **mini-projects and exercises** where I strengthened my fundamentals in **HTML & CSS** through hands-on practice.  
-Each project focuses on a specific concept, from basic page structure to responsive design and layout techniques.
+A collection of **mini-projects and exercises** where I strengthened my fundamentals in **HTML & CSS** through hands-on practice. Each project focuses on a specific concept, from basic page structure to responsive design and layout techniques.
 
 ---
 
