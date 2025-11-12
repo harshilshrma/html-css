@@ -43,3 +43,6 @@ button::hover {
     cursor: pointer;   
 }
 
+.footer-text {
+    text-align: center;
+}

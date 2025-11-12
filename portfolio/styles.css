@@ -41,6 +41,10 @@ a {
     color: var(--text);
 }
 
+.my-image {
+    width: 200px;
+}
+
 input {
     display: block;
     margin: 20px 0 0;

@@ -2,10 +2,10 @@
 // Replace the arguments below according to your preference.
 
 // space, , military, romantic, cowboy, fantasy, superhero
-favouriteMovieGenre("fantasy")
+favouriteMovieGenre("space")
 
 // watermelon, tomato, banana, orange, avocado, blueberry
-favouriteFruit("orange")
+favouriteFruit("")
 
 // light, dark
 favouriteMode("dark")
