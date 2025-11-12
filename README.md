@@ -7,7 +7,7 @@ A collection of **mini-projects and exercises** where I strengthened my fundamen
 ## How does each practice project look like?
 
 ### [6. Birthday Gift](./6_birthday-gift)
-<video src="./6_birthday-gift/123.mp4" autoplay loop width="600"></video>
+![Birthday Gift Preview](./6_birthday-gift/final.gif)
 
 ---
 
